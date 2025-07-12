@@ -1,4 +1,6 @@
-# Dhruv-AI / README.md
+# DHRUV
+
+> **“The best way to predict the future is to invent it.”** — *Alan Kay*
 
 ## Hi 👋, I'm Dhruv Tiwari
 
@@ -8,13 +10,12 @@
 - 🔐 Currently learning **Advanced Machine Learning and Data Engineering**
 - 💬 Ask me about **Python • C++ • EDA • ML • DL • GenAI • PowerBI • SQL • Excel**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/dhruv-tiwari-6a689026a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- 📚 Know more about my experience and journey: [My LinkedIn](https://www.linkedin.com/in/dhruv-tiwari-6a689026a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
 ### 🔗 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/dhruv-tiwari-6a689026a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/dhruv-tiwari-6a689026a)
 
 ---
 
@@ -38,8 +39,8 @@
 
   <!-- Databases & Analytics -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Power_BI_logo.svg" alt="Power BI" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Microsoft_Excel_2013-2019_logo.svg/2048px-Microsoft_Excel_2013-2019_logo.svg.png" alt="Excel" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/microsoftpowerbi.svg" alt="Power BI" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/microsoftexcel.svg" alt="Excel" width="40" height="40"/>
 </p>
 
 ---
@@ -72,7 +73,7 @@
 
 ---
 
-### 🧠 GitHub Contributions
+### 🧠 GitHub Contributions Snake Graph
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/tiwaridhruv-12/tiwaridhruv-12/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Graph" />
