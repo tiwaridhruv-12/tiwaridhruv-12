@@ -39,7 +39,7 @@
 
   <!-- Databases & Analytics -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/microsoftpowerbi.svg" alt="Power BI" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/tiwaridhruv-12/tiwaridhruv-12/main/assets/powerbi.svg" alt="Power BI" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/microsoftexcel.svg" alt="Excel" width="40" height="40"/>
 </p>
 
@@ -76,5 +76,5 @@
 ### 🧠 GitHub Contributions Snake Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tiwaridhruv-12/tiwaridhruv-12/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Graph" />
+  <img src="https://github.com/tiwaridhruv-12/tiwaridhruv-12/blob/output/dist/github-contribution-grid-snake.svg" alt="GitHub Contribution Graph" />
 </p>
